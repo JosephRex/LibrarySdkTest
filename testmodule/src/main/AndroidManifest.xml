@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tmcsrex.testmodule">
 
-    <application></application>
+    <application>
+        <activity android:name=".TestActivityDisplay"></activity>
+    </application>
 
 </manifest>
